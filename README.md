@@ -22,6 +22,7 @@ Open terminal and try execute some kali linux commands
 ## EXECUTION STEPS AND ITS OUTPUT:
 Social Engineering attacks are the various cons used by the hackers to trick people into providing sensitive data to the attackers. 
 The command sudo setoolkit in the prompt gives menu with set prompt:
+
 ![image](https://github.com/user-attachments/assets/b3baad1a-11de-49e8-99c0-1bb9ff3a7940)
 
  It displays the following menu and select 2 for Website Attack Vectors:
